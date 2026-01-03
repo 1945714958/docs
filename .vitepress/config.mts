@@ -17,7 +17,7 @@ export default defineConfig({
       {
         text: 'SEO',
         items: [
-          { text: 'SEO', link: '/web/seo' }
+          { text: 'SEO', link: 'src/web/seo' }
         ]
       }
     ],
