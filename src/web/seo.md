@@ -1,0 +1,3 @@
+# SEO
+
+SEO分为黑帽SEO/白帽SEO
